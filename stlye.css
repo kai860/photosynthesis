@@ -1,0 +1,16 @@
+h1{
+  color: #98FB76;
+  font-size: 50px;
+}
+p{
+  color:#98FB98;
+  font-size: 40px;
+}
+body{
+  background: black;
+}
+div{
+  text-align: center;
+  background:grey;
+  border-radius: 0px 150px 150px 0px
+}
